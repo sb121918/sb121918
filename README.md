@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Identity and Access Management (IAM) infrastructure projects.<br><br>👯 I’m looking to collaborate on<br>IAM-related technology, including Active Directory security, lifecycle management, and automated provisioning workflows.<br><br>🤝 I’m looking for help with<br>AI integration—specifically using Large Language Models (LLMs) to automate complex PowerShell scripting and AD auditing tasks.<br><br>🌱 I’m currently learning<br>Advanced PowerShell automation for multi-domain environments 
+🔭 Currently Working On
+
+Designing and enhancing Identity & Access Management (IAM) infrastructure, with a focus on secure identity lifecycles, access governance, and enterprise-scale directory services.
+
+👯 Open to Collaboration
+
+Partnering on IAM and directory security initiatives, including Active Directory hardening, identity lifecycle automation, and scalable provisioning/deprovisioning workflows.
+
+🤝 Exploring & Seeking Input
+
+Integrating AI and Large Language Models (LLMs) to automate complex PowerShell scripting, improve AD auditing, and accelerate operational troubleshooting and analysis.
+
+🌱 Currently Learning
+
+Advanced PowerShell automation techniques for multi-domain and hybrid environments, with an emphasis on reliability, scale, and security.
 
 
 ## 🌐 Socials:
